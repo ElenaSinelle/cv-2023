@@ -36,3 +36,12 @@ My name is Elena. I have a wide education and working experience in various fiel
 - Russian (native)
 - Belarusian (native)
 - English (advanced)
+
+## Code Example
+
+```
+function sentence(List) {
+ let sorted = List.sort((prev, next) => Object.keys(prev)[0] - Object.keys(next)[0]);
+ return sorted.map(item => item[Object.keys(item)[0]]).join(' ');
+}
+```
