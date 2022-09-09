@@ -85,9 +85,8 @@
             <h2>Code Example</h2>
             <pre>
                 <code>
-function sentence(List) {
-let sorted = List.sort((prev, next) => Object.keys(prev)[0] - Object.keys(next)[0]);
-return sorted.map(item => item[Object.keys(item)[0]]).join(' ');
+function noSpace(x){
+return x.replace(/ /g,'')
 }
                 </code>
             </pre>
