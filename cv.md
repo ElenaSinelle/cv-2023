@@ -36,6 +36,8 @@ My name is Elena. I have a wide education and working experience in various fiel
 - Russian (native)
 - Belarusian (native)
 - English (advanced)
+- German (beginner)
+- Chinese (beginner)
 
 ## Code Example
 
