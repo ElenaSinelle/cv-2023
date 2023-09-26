@@ -1,4 +1,4 @@
-# rsschool-cv
+# cv-2023
 
 - https://elenasinelle.github.io/cv-2023/cv
 
